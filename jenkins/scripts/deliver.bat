@@ -1,1 +1,1 @@
-java target/classes/com/mycompany/app/App
+java com/mycompany/app/App
