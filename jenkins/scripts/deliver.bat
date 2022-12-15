@@ -1,1 +1,1 @@
-java -jar target/myapp-1.0.jar
+java -jar target/my-app-1.0.jar
